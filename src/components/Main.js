@@ -81,7 +81,7 @@ By Skye Jacobs Today 9:57 AM
       </CardContent>
       <CardActions>
         <ul style={{listStyle:'none'}}>
-            <li><Link to='/Project2'><Button variant='contained'>Read More</Button></Link></li>
+            <li><Link to='/Sub'><Button variant='contained'>Read More</Button></Link></li>
         </ul>
       </CardActions>
     </Card>
@@ -102,7 +102,7 @@ By Rob Thubron August 10, 2025 at 11:48 AM
       </CardContent>
       <CardActions>
         <ul style={{listStyle:'none'}}>
-            <li><Link to='/Project2'><Button variant='contained'>Read More</Button></Link></li>
+            <li><Link to='/Sub'><Button variant='contained'>Read More</Button></Link></li>
         </ul>
       </CardActions>
     </Card>
@@ -124,7 +124,7 @@ By Skye Jacobs August 9, 2025 at 11:06 AM
       </CardContent>
       <CardActions>
         <ul style={{listStyle:'none'}}>
-            <li><Link to='/Project2'><Button variant='contained'>Read More</Button></Link></li>
+            <li><Link to='/Sub'><Button variant='contained'>Read More</Button></Link></li>
         </ul>
       </CardActions>
     </Card>
@@ -145,7 +145,7 @@ By Rob Thubron Today 8:03 AM
       </CardContent>
       <CardActions>
         <ul style={{listStyle:'none'}}>
-            <li><Link to='/Project2'><Button variant='contained'>Read More</Button></Link></li>
+            <li><Link to='/Sub'><Button variant='contained'>Read More</Button></Link></li>
         </ul>
       </CardActions>
     </Card>
